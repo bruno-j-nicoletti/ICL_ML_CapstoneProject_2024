@@ -1,0 +1,13 @@
+{
+  "dim": 6,
+  "batch_size": 1,
+  "length": 0.2,
+  "length_min": 0.0078125,
+  "length_max": 1.0,
+  "failure_counter": 0,
+  "failure_tolerance": 6,
+  "success_counter": 0,
+  "success_tolerance": 5,
+  "best_value": 1.7860306690687051,
+  "restart_triggered": false
+}
